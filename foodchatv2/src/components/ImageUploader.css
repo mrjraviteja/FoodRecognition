@@ -1,0 +1,15 @@
+/* ImageUploader.css */
+.image-predictions-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .image-predictions-item {
+    margin: 10px;
+  }
+
+  .image-predictions-item > img{
+    max-width: 200px;
+    max-height: 200px;
+  }
+  
